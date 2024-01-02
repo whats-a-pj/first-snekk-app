@@ -25,3 +25,6 @@ elif (random_number == 9):
     answer = print("Very doubtful")
 else:
     answer = print("Error")
+
+print(name + " asks: " + question)
+print("Magic 8-Ball's answer: " + answer)
